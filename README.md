@@ -178,15 +178,6 @@ Overweight and obese individuals are disproportionately represented within advan
 
 ---
 
-## 📁 Repository Contents
-
-| Folder/File | Description |
-|------------|-------------|
-| Images | Contains the dashboard wireframe and final dashboard screenshots |
-| README.md | Project documentation, methodology, insights, and recommendations |
-
----
-
 ## 👤 Author
 
 ### Chukwuemeka Somtochukwu Promise
