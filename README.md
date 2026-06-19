@@ -1,4 +1,6 @@
-# INSIGHT ON DIABETES PREVALENCE (POPULATION OVERVIEW)
+# Diabetes Prevalence Dashboard
+
+### Insight on Diabetes Prevalence (Population Overview)
 
 <img width="800" height="380" alt="Final Dashboard" src="https://github.com/user-attachments/assets/5ca23f44-3202-4481-9716-c27892e416f1" />
 
