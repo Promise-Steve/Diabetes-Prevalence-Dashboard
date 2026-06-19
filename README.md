@@ -1,6 +1,6 @@
 # Diabetes Prevalence Dashboard
 
-<img width="900" height="580" alt="Final Dashboard" src="https://github.com/user-attachments/assets/5ca23f44-3202-4481-9716-c27892e416f1" />
+<img width="800" height="380" alt="Final Dashboard" src="https://github.com/user-attachments/assets/5ca23f44-3202-4481-9716-c27892e416f1" />
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)![Data Analysis](https://img.shields.io/badge/Data_Analysis-Analytics-blue?style=for-the-badge)![Dashboard](https://img.shields.io/badge/Dashboard-Development-success?style=for-the-badge)
 
