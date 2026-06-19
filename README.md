@@ -1,8 +1,27 @@
-# Diabetes Prevalence Dashboard
+# INSIGHT ON DIABETES PREVALENCE (POPULATION OVERVIEW)
 
 <img width="800" height="380" alt="Final Dashboard" src="https://github.com/user-attachments/assets/5ca23f44-3202-4481-9716-c27892e416f1" />
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)![Data Analysis](https://img.shields.io/badge/Data_Analysis-Analytics-blue?style=for-the-badge)![Dashboard](https://img.shields.io/badge/Dashboard-Development-success?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Healthcare-Analytics-005EB8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-Visualization-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboard-Development-00C853?style=for-the-badge" />
+</p>
+
+## Table of Contents
+
+- Project Overview
+- Business Problem
+- Dataset Overview
+- Tools Used
+- Skills Demonstrated
+- Dashboard Design Process
+- Final Dashboard
+- Key Insights
+- Recommendations
+- Author
 
 ## 📌 Project Overview
 
