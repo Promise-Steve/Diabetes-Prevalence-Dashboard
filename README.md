@@ -193,6 +193,6 @@ Overweight and obese individuals are disproportionately represented within advan
 
 Passionate about transforming health data into actionable insights through data analytics, visualisation, and evidence-based decision-making. Skilled in Microsoft Excel, dashboard development, healthcare analytics, and public health research.
 
-📧 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/somtochukwu-chukwuemeka-57b690268)
+📧 [LinkedIn Profile](www.linkedin.com/in/somtochukwu-chukwuemeka-57b690268)
 
-💻 GitHub: [GitHub Portfolio](https://github.com/Promise-Steve)
+💻 [GitHub Portfolio](https://github.com/Promise-Steve)
