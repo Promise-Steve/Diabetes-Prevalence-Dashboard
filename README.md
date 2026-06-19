@@ -62,12 +62,18 @@ The dataset was analysed to identify trends, risk factors, and clinical patterns
 
 ## 🛠️ Tools Used
 
+### Software
+
 * Microsoft Excel
+* Microsoft PowerPoint (Wireframing)
+
+### Excel Features Utilised
+
 * Pivot Tables
 * Pivot Charts
 * Slicers
 * Conditional Formatting
-* Microsoft PowerPoint (Wireframing)
+* KPI Cards
 
 ---
 
@@ -80,6 +86,19 @@ The dataset was analysed to identify trends, risk factors, and clinical patterns
 * KPI Reporting
 * Interactive Dashboard Design
 * Healthcare Data Analytics
+
+---
+
+## 🔄 Project Workflow
+
+1. Defined the business problem.
+2. Reviewed and explored the healthcare dataset.
+3. Designed a dashboard wireframe in Microsoft PowerPoint.
+4. Structured and analysed the dataset in Microsoft Excel.
+5. Built Pivot Tables and Pivot Charts.
+6. Developed KPI cards and interactive slicers.
+7. Created the final dashboard.
+8. Generated insights and recommendations.
 
 ---
 
@@ -174,6 +193,6 @@ Overweight and obese individuals are disproportionately represented within advan
 
 Passionate about transforming health data into actionable insights through data analytics, visualisation, and evidence-based decision-making. Skilled in Microsoft Excel, dashboard development, healthcare analytics, and public health research.
 
-📧 LinkedIn: www.linkedin.com/in/somtochukwu-chukwuemeka-57b690268
+📧 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/somtochukwu-chukwuemeka-57b690268)
 
-💻 GitHub: https://github.com/Promise-Steve
+💻 GitHub: [GitHub Portfolio](https://github.com/Promise-Steve)
