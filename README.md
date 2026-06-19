@@ -1,5 +1,15 @@
 # Diabetes Prevalence Dashboard
 
+![Final Dashboard](images/final dashboard.png)
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Analytics-blue?style=for-the-badge)
+
+![Dashboard](https://img.shields.io/badge/Dashboard-Development-success?style=for-the-badge)
+
 ## 📌 Project Overview
 
 The Diabetes Prevalence Dashboard is an interactive Microsoft Excel analytics project designed to explore diabetes prevalence, progression, and associated risk factors across different population groups. The project transforms raw healthcare data into meaningful insights through interactive visualisations, key performance indicators (KPIs), and dynamic filtering capabilities.
