@@ -56,7 +56,7 @@ The dataset was analysed to identify trends, risk factors, and clinical patterns
 
 * Data Cleaning
 * Data Analysis
-* Data Visualization
+* Data Visualisation
 * Dashboard Development
 * KPI Reporting
 * Interactive Dashboard Design
@@ -72,7 +72,7 @@ The wireframe helped ensure a user-friendly layout and guided the development of
 
 ### Dashboard Wireframe
 
-<img width="4400" height="2475" alt="Wire_frame G-2" src="https://github.com/user-attachments/assets/a22d8e51-6f02-4413-851a-f2ee4cbda403" />
+<img width="850" height="475" alt="Wire_frame G-2" src="https://github.com/user-attachments/assets/a22d8e51-6f02-4413-851a-f2ee4cbda403" />
 
 
 ---
@@ -106,7 +106,7 @@ The final dashboard provides an interactive overview of diabetes prevalence and 
 
 ### Dashboard Preview
 
-<img width="1914" height="980" alt="Final Dashboard" src="https://github.com/user-attachments/assets/ef320727-cc90-4517-a5d9-e854264baf2c" />
+<img width="800" height="480" alt="Final Dashboard" src="https://github.com/user-attachments/assets/ef320727-cc90-4517-a5d9-e854264baf2c" />
 
 
 ---
