@@ -1,14 +1,8 @@
 # Diabetes Prevalence Dashboard
 
-![Final Dashboard](images/final dashboard.png)
+<img width="1914" height="980" alt="Final Dashboard" src="https://github.com/user-attachments/assets/5ca23f44-3202-4481-9716-c27892e416f1" />
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Analytics-blue?style=for-the-badge)
-
-![Dashboard](https://img.shields.io/badge/Dashboard-Development-success?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white), ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white), ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Analytics-blue?style=for-the-badge), ![Dashboard](https://img.shields.io/badge/Dashboard-Development-success?style=for-the-badge)
 
 ## 📌 Project Overview
 
