@@ -25,7 +25,7 @@
 - Recommendations
 - Author
 
-## 📌 Project Overview
+## Project Overview
 
 The Diabetes Prevalence Dashboard is an interactive Microsoft Excel analytics project designed to explore diabetes prevalence, progression, and associated risk factors across different population groups. The project transforms raw healthcare data into meaningful insights through interactive visualisations, key performance indicators (KPIs), and dynamic filtering capabilities.
 
@@ -33,7 +33,7 @@ The dashboard examines how demographic characteristics, lifestyle factors, and c
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Diabetes remains one of the leading chronic health conditions worldwide, contributing significantly to morbidity, mortality, and healthcare costs. Healthcare professionals and policymakers require accessible analytical tools to identify high-risk populations and understand factors associated with diabetes progression.
 
@@ -46,7 +46,7 @@ This project seeks to answer the following questions:
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset contains patient-level healthcare information, including:
 
@@ -62,7 +62,7 @@ The dataset was analysed to identify trends, risk factors, and clinical patterns
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 ### Software
 
@@ -79,7 +79,7 @@ The dataset was analysed to identify trends, risk factors, and clinical patterns
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 * Data Cleaning
 * Data Analysis
@@ -91,7 +91,7 @@ The dataset was analysed to identify trends, risk factors, and clinical patterns
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Defined the business problem.
 2. Reviewed and explored the healthcare dataset.
@@ -104,7 +104,7 @@ The dataset was analysed to identify trends, risk factors, and clinical patterns
 
 ---
 
-## 📐 Dashboard Design Process
+## Dashboard Design Process
 
 Before building the dashboard, a wireframe was developed using Microsoft PowerPoint to define the dashboard structure, visual hierarchy, KPI placement, chart positioning, and user interaction flow.
 
@@ -116,7 +116,7 @@ The wireframe helped ensure a user-friendly layout and guided the development of
 
 ---
 
-## 📊 Final Dashboard
+## Final Dashboard
 
 The final dashboard provides an interactive overview of diabetes prevalence and associated risk factors. Users can dynamically filter data using slicers and explore trends through visualisations that highlight key patterns in the dataset.
 
@@ -149,7 +149,7 @@ The final dashboard provides an interactive overview of diabetes prevalence and 
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 ### 1. Diabetes Prevalence Increases with Age
 
@@ -169,7 +169,7 @@ Overweight and obese individuals are disproportionately represented within advan
 
 ---
 
-## 📋 Recommendations
+## Recommendations
 
 - Promote regular physical activity through targeted health interventions.
 - Encourage routine diabetes screening among older adults.
@@ -178,7 +178,7 @@ Overweight and obese individuals are disproportionately represented within advan
 
 ---
 
-## 👤 Author
+## Author
 
 ### Chukwuemeka Somtochukwu Promise
 
