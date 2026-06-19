@@ -93,7 +93,6 @@ The wireframe helped ensure a user-friendly layout and guided the development of
 
 <img width="850" height="475" alt="Wire_frame G-2" src="https://github.com/user-attachments/assets/a22d8e51-6f02-4413-851a-f2ee4cbda403" />
 
-
 ---
 
 ## 📊 Final Dashboard
@@ -127,7 +126,6 @@ The final dashboard provides an interactive overview of diabetes prevalence and 
 
 <img width="800" height="480" alt="Final Dashboard" src="https://github.com/user-attachments/assets/ef320727-cc90-4517-a5d9-e854264baf2c" />
 
-
 ---
 
 ## 🔍 Key Insights
@@ -152,10 +150,19 @@ Overweight and obese individuals are disproportionately represented within advan
 
 ## 📋 Recommendations
 
-* Promote regular physical activity through targeted public health campaigns.
-* Encourage routine diabetes screening among older adults.
-* Strengthen obesity prevention and weight management interventions.
-* Improve early identification and monitoring of pre-diabetic individuals.
+- Promote regular physical activity through targeted health interventions.
+- Encourage routine diabetes screening among older adults.
+- Strengthen obesity prevention and weight management programs.
+- Improve early identification and monitoring of pre-diabetic individuals.
+
+---
+
+## 📁 Repository Contents
+
+| Folder/File | Description |
+|------------|-------------|
+| Images | Contains the dashboard wireframe and final dashboard screenshots |
+| README.md | Project documentation, methodology, insights, and recommendations |
 
 ---
 
